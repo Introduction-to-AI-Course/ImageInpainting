@@ -16,3 +16,4 @@
 测试：
 运行python test.py --image examples/input.png --mask examples/mask.png --output examples/output.png --checkpoint model_logs/your_model_dir。
 #demo
+# ImageInpainting
